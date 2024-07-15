@@ -12,7 +12,7 @@ import { HeaderComponent } from './header/header.component';
     SidebarComponent,
     HeaderComponent,
   ],
-  exports:[
+  exports: [
     BreadcrumbsComponent,
     SidebarComponent,
     HeaderComponent,
